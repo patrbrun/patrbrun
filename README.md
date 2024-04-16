@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Patricia. I'm a Quality Engineer @Veriff
+My name is Patricia. I'm a Quality Engineer looking for new opportunities.
 
-- 🌱 I’m curious about everything Java, Kotlin and Android related.
-- 🔭 I’m interested in game design.
-- ⚡ Fun fact: I love making music and digital art as a hobby. I also love adventure sports.
+- 🌱 Interested in test automation for mobile and web.
+- 🔭 Currently deep-diving into Python.
+- ⚡ I like to make 2D digital art.
 
 ---
 
