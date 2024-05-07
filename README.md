@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Patricia. I'm a Quality Engineer looking for new opportunities.
+My name is Patricia. I'm a data-driven engineer looking for new opportunities.
 
-- 🌱 Interested in test automation for mobile and web.
-- 🔭 Currently deep-diving into Python.
+- 🔭 Currently deep-diving into Python, SQL and analytics.
 - ⚡ I like to make 2D digital art.
 
 ---
