@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Patricia. I'm a data-driven engineer looking for new opportunities.
+My name is Patricia. I'm a Quality engineer.
 
-- 🔭 Currently deep-diving into Python, SQL and analytics.
+- 🔭 Currently deep-diving into Typescript.
 - ⚡ I like to make 2D digital art.
 
 ---
